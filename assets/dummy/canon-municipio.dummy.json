@@ -1,0 +1,52 @@
+{
+  "statusCode": 200,
+  "message": null,
+  "stackTrace": null,
+  "result": null,
+  "results": [
+    {
+      "munName": "Cerrillos",
+      "munAmount": 1000
+    },
+    {
+      "munName": "Chicoana",
+      "munAmount": 12300
+    },
+    {
+      "munName": "La Poma",
+      "munAmount": 12543
+    },
+    {
+      "munName": "El Bordo",
+      "munAmount": 2549
+    },
+    {
+      "munName": "El Carril",
+      "munAmount": 3690
+    },
+    {
+      "munName": "Payogasta",
+      "munAmount": 2356
+    },
+    {
+      "munName": "La Merced",
+      "munAmount": 9287
+    },
+    {
+      "munName": "La Viña",
+      "munAmount": 2837
+    },
+    {
+      "munName": "Las Lajitas",
+      "munAmount": 6749
+    },
+    {
+      "munName": "Aguaray",
+      "munAmount": 2398
+    },
+    {
+      "munName": "Angastaco",
+      "munAmount": 8390
+    }
+  ]
+}

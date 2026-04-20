@@ -1,0 +1,30 @@
+{
+    "statusCode": 200,
+    "message": null,
+    "stackTrace": null,
+    "result": null,
+    "results": [
+      {
+        "id": "1",
+        "autoId": 0,
+        "name": "Salta",
+        "cantidad": 0,
+        "porcentaje": 0
+      },
+      {
+        "id": "2",
+        "autoId": 1,
+        "name": "Cerrillos",
+        "cantidad": 0,
+        "porcentaje": 0
+      },
+      {
+        "id": "3",
+        "autoId": 2,
+        "name": "La merced",
+        "cantidad": 0,
+        "porcentaje": 0
+      }
+    ]
+  }
+  
