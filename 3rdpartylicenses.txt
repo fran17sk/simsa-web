@@ -790,6 +790,9 @@ OTHER DEALINGS IN THE SOFTWARE.
 ng-apexcharts
 MIT
 
+ngx-clipboard
+MIT
+
 ngx-mask
 MIT
 MIT License
@@ -844,6 +847,9 @@ ngx-permissions
 MIT
 
 ngx-spinner
+MIT
+
+ngx-window-token
 MIT
 
 performance-now
